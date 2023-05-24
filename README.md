@@ -105,7 +105,7 @@ Step 1: Using python 3.10: install python and the requirements
 git clone https://github.com/JuanPZuluaga/accent-recog-slt2022
 conda create -n accent_recog python==3.10
 conda activate accent_recog
-python -m pip install -r requirements.txt
+python -m pip install -r requeriments.txt
 ```
 
 You need to run this to get Pytorch running with CUDA 11.6
